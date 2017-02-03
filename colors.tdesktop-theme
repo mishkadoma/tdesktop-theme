@@ -21,18 +21,18 @@
 // |-background.jpg (or tiled.jpg, background.png, tiled.png)
 //
 
-windowBg: #ffffff;
-windowFg: #000000;
-windowBgOver: #f1f1f1;
+windowBg: #dbd9d9;
+windowFg: #393939;
+windowBgOver: #b5b5b5;
 windowBgRipple: #e5e5e5;
 windowFgOver: windowFg;
 windowSubTextFg: #999999;
 windowSubTextFgOver: #919191;
 windowBoldFg: #222222;
 windowBoldFgOver: #222222;
-windowBgActive: #40a7e3;
+windowBgActive: #86a0af;
 windowFgActive: #ffffff;
-windowActiveTextFg: #168acd;
+windowActiveTextFg: #20597a;
 windowShadowFg: #000000;
 windowShadowFgFallback: #f1f1f1;
 shadowFg: #00000018;
