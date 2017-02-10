@@ -226,7 +226,7 @@ historyPeer5UserpicBg: #a5a5a5;
 historyPeer6NameFg: #cd4073;
 historyPeer6UserpicBg: #c5c5c5;
 historyPeer7NameFg: #2996ad;
-historyPeer7UserpicBg: #e2e2e2
+historyPeer7UserpicBg: #e2e2e2;
 historyPeer8NameFg: #ce671b;
 historyPeer8UserpicBg: #ffffff;
 historyPeerUserpicFg: windowFgActive;
