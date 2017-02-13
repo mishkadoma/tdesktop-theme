@@ -239,7 +239,7 @@ historyScrollBarBgOver: #00000053;
 historyScrollBg: #00000000;
 historyScrollBgOver: #0000001a;
 msgInBg: windowBg;
-msgInBgSelected: #c2dcf2;
+msgInBgSelected: #bec0c2;
 msgOutBg: #e3f5ff;
 msgOutBgSelected: #999999;
 msgSelectOverlay: #358cd44c;
