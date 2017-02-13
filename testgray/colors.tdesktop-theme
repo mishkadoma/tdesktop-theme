@@ -97,7 +97,7 @@ titleButtonCloseBgOver: #c2686f;
 titleButtonCloseFgOver: windowFgActive;
 titleFgActive: #3e3c3e;
 titleFg: #acacac;
-trayCounterBg: #c6544f;
+trayCounterBg: #c72b24;
 trayCounterBgMute: #888888;
 trayCounterFg: #ffffff;
 trayCounterBgMacInvert: #ffffff;
