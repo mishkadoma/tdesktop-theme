@@ -130,7 +130,7 @@ introTitleFg: windowBoldFg;
 introDescriptionFg: windowSubTextFg;
 introErrorFg: windowSubTextFg;
 introCoverTopBg: #414649;
-introCoverBottomBg: #0f171c;
+introCoverBottomBg: #262d30;
 introCoverIconsFg: #f6f6f6;
 introCoverPlaneTrace: #000000;
 introCoverPlaneInner: #c6d8e8;
