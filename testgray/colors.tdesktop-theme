@@ -202,7 +202,7 @@ historyFileNameOutFg: historyTextOutFg;
 historyOutIconFg: dialogsSentIconFg;
 historyOutIconFgSelected: #3a474e;
 historyIconFgInverted: windowFgActive;
-historySendingOutIconFg: #9dc2d9;
+historySendingOutIconFg: #b4b4b4;
 historySendingInIconFg: #a0adb5;
 historySendingInvertedIconFg: #ffffffc8;
 historySystemBg: #89a0b47f;
